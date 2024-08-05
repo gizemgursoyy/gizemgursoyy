@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gizemgursoyy
+- 👋 Hi, I’m Gizem Gürsoy
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: gizem.gursoy1@outlook.com
